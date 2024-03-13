@@ -2,7 +2,7 @@
     include_once 'atas.php';
 ?>
 <div class="container my-5">
-            <h1 class="text-center mb-4">Triangle Area Calculator</h1>
+        <h1 class="text-center mb-4">Triangle Area Calculator</h1>
             <form action="" method="post">
                 <div class="form-floating mb-3">
                     <label for="base">Base</label>
@@ -14,7 +14,7 @@
                 </div>
                 <button name="submit" type="submit" class="btn btn-primary">Calculate Area</button>
             </form>
-        </div>
+</div>
 
 
 <?php
