@@ -19,7 +19,7 @@
         }
     
         public function getVolume() {
-            return self * $this->panjang * $this->lebar * $this->tinggi;
+            return $this->panjang * $this->lebar * $this->tinggi;
         }
     }
 ?>
